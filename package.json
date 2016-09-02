@@ -1,0 +1,13 @@
+{
+  "name": "nodock",
+  "version": "1.0.0",
+  "description": "Node on Docker (per Nodejs site)",
+  "author": "Rustam Kasad <warriorpostman@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
